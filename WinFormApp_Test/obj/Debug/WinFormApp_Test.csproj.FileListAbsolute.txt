@@ -1,0 +1,9 @@
+D:\Doc\P-481\ПРАКТИКА\Work\_drafts\WinFormApp_Test\WinFormApp_Test\bin\Debug\WinFormApp_Test.exe.config
+D:\Doc\P-481\ПРАКТИКА\Work\_drafts\WinFormApp_Test\WinFormApp_Test\bin\Debug\WinFormApp_Test.exe
+D:\Doc\P-481\ПРАКТИКА\Work\_drafts\WinFormApp_Test\WinFormApp_Test\bin\Debug\WinFormApp_Test.pdb
+D:\Doc\P-481\ПРАКТИКА\Work\_drafts\WinFormApp_Test\WinFormApp_Test\obj\Debug\WinFormApp_Test.csprojAssemblyReference.cache
+D:\Doc\P-481\ПРАКТИКА\Work\_drafts\WinFormApp_Test\WinFormApp_Test\obj\Debug\WinFormApp_Test.MainForm.resources
+D:\Doc\P-481\ПРАКТИКА\Work\_drafts\WinFormApp_Test\WinFormApp_Test\obj\Debug\WinFormApp_Test.Properties.Resources.resources
+D:\Doc\P-481\ПРАКТИКА\Work\_drafts\WinFormApp_Test\WinFormApp_Test\obj\Debug\WinFormApp_Test.csproj.GenerateResource.cache
+D:\Doc\P-481\ПРАКТИКА\Work\_drafts\WinFormApp_Test\WinFormApp_Test\obj\Debug\WinFormApp_Test.exe
+D:\Doc\P-481\ПРАКТИКА\Work\_drafts\WinFormApp_Test\WinFormApp_Test\obj\Debug\WinFormApp_Test.pdb
